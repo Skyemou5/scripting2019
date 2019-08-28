@@ -9,6 +9,7 @@
         <e p="scripts" t="Include">
           <e p="FloatData.cs" t="Include" />
           <e p="triggerBehavior.cs" t="Include" />
+          <e p="triggerEventBehavior.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
