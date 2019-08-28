@@ -13,6 +13,8 @@ Build/
 *.userprefs
 *.pidb
 *.booproj
+*.dll
+
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -20,4 +22,4 @@ Build/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
-
+.idea/
