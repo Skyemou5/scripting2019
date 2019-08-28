@@ -546,7 +546,7 @@ GameObject:
   - component: {fileID: 957205402}
   - component: {fileID: 957205401}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -578,6 +578,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  triggerStayEvent:
+    m_PersistentCalls:
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!135 &957205402
@@ -646,7 +651,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 957205400}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.34, y: 1.54, z: 0.74}
+  m_LocalPosition: {x: -0.03, y: 1.6, z: 0.74}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -749,7 +754,7 @@ GameObject:
   - component: {fileID: 1227230403}
   - component: {fileID: 1227230402}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1037,7 +1042,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1227230401}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.2574, y: 0.49637, z: 2.82}
+  m_LocalPosition: {x: -1.14, y: 0.49637, z: 2.92}
   m_LocalScale: {x: 4.4908, y: 0.44727, z: 3.7273588}
   m_Children: []
   m_Father: {fileID: 0}
