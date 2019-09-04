@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="FloatData.cs" t="Include" />
+          <e p="ImageController.cs" t="Include" />
           <e p="triggerBehavior.cs" t="Include" />
           <e p="triggerEventBehavior.cs" t="Include" />
         </e>
