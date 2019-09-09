@@ -4,7 +4,7 @@
     <list default="true" id="2a8565ab-17d4-4c91-99a0-0d8880adc7c4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/triggerEventBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/triggerEventBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/ImageController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ImageController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/86/087d8d95/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2094A731-351D-475D-BA68-F5920DE30ED8/a9/6549db3e/Component.cs" root0="SKIP_HIGHLIGHTING" />
@@ -35,9 +36,10 @@
         <option value="$PROJECT_DIR$/Assets/scripts/triggerBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/new.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/ImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/triggerEventBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/GameActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ImageController.cs" />
       </list>
     </option>
   </component>
@@ -100,7 +102,7 @@
       <workItem from="1566418453113" duration="911000" />
       <workItem from="1567019475814" duration="2915000" />
       <workItem from="1567624355759" duration="4414000" />
-      <workItem from="1568056778633" duration="1472000" />
+      <workItem from="1568056778633" duration="3543000" />
     </task>
     <servers />
   </component>
