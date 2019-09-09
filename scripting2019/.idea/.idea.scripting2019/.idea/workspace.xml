@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8565ab-17d4-4c91-99a0-0d8880adc7c4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/ImageController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ImageController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,7 @@
       <workItem from="1566418453113" duration="911000" />
       <workItem from="1567019475814" duration="2915000" />
       <workItem from="1567624355759" duration="4414000" />
-      <workItem from="1568056778633" duration="3543000" />
+      <workItem from="1568056778633" duration="3744000" />
     </task>
     <servers />
   </component>
