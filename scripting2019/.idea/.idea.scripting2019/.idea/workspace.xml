@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8565ab-17d4-4c91-99a0-0d8880adc7c4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.scripting2019/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sciptable_Objects/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sciptable_Objects/Health.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/FloatData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/GameAction.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/GameAction.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/GameActionHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/GameActionHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/ImageController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/ImageController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/triggerBehavior.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/triggerBehavior.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/triggerEventBehavior.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/triggerEventBehavior.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +100,7 @@
       <workItem from="1568056778633" duration="3744000" />
       <workItem from="1568155294763" duration="875000" />
       <workItem from="1568228720381" duration="1259000" />
-      <workItem from="1568334240584" duration="3493000" />
+      <workItem from="1568334240584" duration="4165000" />
     </task>
     <servers />
   </component>
