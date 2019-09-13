@@ -2,23 +2,23 @@
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
-public class ImageController : MonoBehaviour
+public class ImageHandler : MonoBehaviour
 {
-    private Image imgComp;
+    private Image imageComponent;
+
     private void Start()
     {
-        imgComp = GetComponent<Image>();
+        imageComponent = GetComponent<Image>();
     }
-    
+
     public void UpdateImageComponent(float amt)
     {
-        imgComp.fillAmount += amt;
+        imageComponent.fillAmount += amt;
     }
 
     public void UpdateImageComponent(FloatData dataObj)
     {
-        imgComp.fillAmount = dataObj.value;
+        imageComponent.fillAmount = dataObj.value;
     }
-
     
 }

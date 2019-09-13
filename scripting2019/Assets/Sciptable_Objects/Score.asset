@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c8a7f7ccc0d59f04b8e03174c04763f6, type: 3}
-  m_Name: Health
+  m_Name: Score
   m_EditorClassIdentifier: 
   value: 1
   maxValue: 20
