@@ -11,6 +11,11 @@ public class FloatData : ScriptableObject
         value += amt;
     }
 
+    public void ChangeValue(float amt)
+    {
+        value = amt;
+    }
+    
     public void UpdateValueLimitZero(float amt)
     {
         if (value < 0)
@@ -35,4 +40,5 @@ public class FloatData : ScriptableObject
         }
         UpdateValueLimitZero(amt);
     }
+    
 }
